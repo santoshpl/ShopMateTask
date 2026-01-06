@@ -7,7 +7,7 @@ const dbName = 'shopmate';
 const products = [
     {
         name: "Wireless Noise Cancelling Headphones",
-        description: "Experience world-class silence and superior sound with these premium headphones. Features 30-hour battery life and plush ear cushions for all-day comfort.",
+        description: "Immerse yourself in pure audio bliss with our premium Wireless Noise Cancelling Headphones. Engineered for audiophiles and travelers alike, these over-ear headphones feature advanced active noise cancellation (ANC) technology to block out distractions. Enjoy crystal-clear highs and deep, resonant bass with high-fidelity sound drivers. The lightweight, ergonomic design ensures all-day comfort, while the plush memory foam ear cushions provide a perfect seal. With an impressive 30-hour battery life and quick charging capabilities, you can keep the music playing on long flights or commutes. Seamless Bluetooth connectivity and a built-in microphone make hands-free calls effortless. Elevate your listening experience today.",
         price: 299.99,
         category: "Electronics",
         stock: 50,
